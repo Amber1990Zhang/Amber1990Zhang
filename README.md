@@ -28,7 +28,7 @@
 
 - 👋 Hi, I’m Amber Moe.
 - 👀 I’m interested in computer science, database, AR, VR, and XR.
-- 🌱 I’m currently learning [Swift](https://developer.apple.com/swift/resources/), [Unity](https://unity.com/), [OceanBase](https://www.oceanbase.com/en/product/oceanbase), and [MongoDB](https://www.mongodb.com/).
+- 🌱 I’m currently learning [Python](https://www.python.org/), [Swift](https://developer.apple.com/swift/resources/), [Unity](https://unity.com/), [OceanBase](https://www.oceanbase.com/en/product/oceanbase), and [MongoDB](https://www.mongodb.com/).
 - 📫 How to reach me... My email: amber.zhangying@foxmail.com
 
 
